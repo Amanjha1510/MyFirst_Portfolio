@@ -44,7 +44,7 @@ header {
     padding: 8px 35px;
     background: #7d2ae8;
     border-radius: 10px;
-    border: 2px solid red;
+    border: 2px #7d2ae8;
     font-weight: 500;
     transition: .3s;
 }
